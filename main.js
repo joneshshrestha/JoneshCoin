@@ -44,3 +44,5 @@ joneshCoin.addBlock(new Block(1, "14/01/2021", { amount: 4 }));
 joneshCoin.addBlock(new Block(2, "16/01/2021", { amount: 20 }));
 
 console.log(JSON.stringify(joneshCoin, null, 4));
+
+test;
